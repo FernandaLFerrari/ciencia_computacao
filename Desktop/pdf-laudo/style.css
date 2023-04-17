@@ -1,0 +1,61 @@
+body {
+    height:200px; 
+    width:100px;
+ }
+ 
+ 
+ .capa {
+    background-image: url('CAPA1.png');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 1400px;
+    width: 1200px;
+    height: 800px;
+    }
+
+.capa1 {
+        background-image: url('CAPA2.PNG');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: 1400px;
+        width: 1200px;
+        height: 800px;
+    }
+
+
+.capa2 {
+        background-image: url('CAPA3.png');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: 1400px;
+        width: 1200px;
+        height: 800px;
+    }
+
+
+.capa3 {
+        background-image: url('CAPA4.jpg');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: 1400px;
+        width: 1200px;
+        height: 800px;
+    }
+
+.pag1 {
+        background-image: url('PAG1.png');
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        background-size: 1400px;
+        width: 1200px;
+        height: 800px;
+    }
+
+
+.footer {
+        display: inline-block;
+        position:absolute;
+        bottom:0;
+        width:63%;
+        height:300px;
+     }
